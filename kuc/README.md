@@ -8,3 +8,5 @@
 source ~/.kube/load.sh
 source ~/.kube/alias
 ```
+6. kgc - list all available contexts
+7. kuc - use specific context
