@@ -1,0 +1,13 @@
+
+alias k='kubectl'
+alias kg='kubectl get'
+alias kd='kubectl describe'
+alias kgn='kubect get -n'
+alias kdn='kubectl describe -n'
+alias kgp='kubectl get pods'
+alias kgd='kubectl get deployments'
+alias kdd='kubectl describe deployments'
+alias kdp='kubectl describe pods'
+alias kgc='kubectl config get-contexts'
+alias kuc='kubectl config use-context'
+
