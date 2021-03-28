@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 ADD_KUBECONFIG_FILES="$HOME/.kube/context"
 
